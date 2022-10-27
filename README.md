@@ -7,7 +7,7 @@ Individual information: https://physionet.org/content/mimiciii/1.4/
 
 
 
-Extracted_signal_records.pl: Extracted individual annotations.
+<strong>Extracted_signal_records.pl<\strong>: Extracted individual annotations.
 
 
 ``` py
