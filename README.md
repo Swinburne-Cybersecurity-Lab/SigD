@@ -1,6 +1,11 @@
 # SigD: A New Cross-Session Dataset for PPG-based User Authentication
 
 
+Detailed waveform: https://physionet.org/content/mimiciii/1.4/ 
+
+Individual information: https://physionet.org/content/mimic3wdb-matched/1.0/
+
+
 
 Extracted_signal_records.pl: Extracted individual annotations.
 
