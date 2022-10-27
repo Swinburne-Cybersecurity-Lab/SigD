@@ -29,3 +29,6 @@ Example of data structure:
 ]
 
 ```
+
+
+GetMIMIC-IIIdata.ipynb: Code to get the dataset. 
