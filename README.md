@@ -7,7 +7,7 @@ Individual information: https://physionet.org/content/mimiciii/1.4/
 
 
 
-<strong>Extracted_signal_records.pl<\strong>: Extracted individual annotations.
+**Extracted_signal_records.pl<\strong>** : Extracted individual annotations.
 
 
 ``` py
@@ -31,4 +31,4 @@ Example of data structure:
 ```
 
 
-GetMIMIC-IIIdata.ipynb: Code to get the dataset. 
+**GetMIMIC-IIIdata.ipynb** : Code to get the dataset. 
